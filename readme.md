@@ -10,6 +10,8 @@
 ### Install
     
     gem install jekyll
+    bundle install
+   
     
 ### Compilation
     bundle exec jekyll build
