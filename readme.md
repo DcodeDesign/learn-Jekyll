@@ -11,7 +11,9 @@
     
     gem install jekyll
     bundle install
-   
+
+#### Install specific version
+    gem install jekyll -v 3.8.5
     
 ### Compilation
     bundle exec jekyll build
